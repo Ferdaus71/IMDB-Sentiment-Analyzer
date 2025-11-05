@@ -1,0 +1,10 @@
+tensorflow
+keras
+gradio
+PyPDF2
+pdf2image
+pytesseract
+matplotlib
+seaborn
+scikit-learn
+pandas

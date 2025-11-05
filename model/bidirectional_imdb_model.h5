@@ -1,0 +1,1 @@
+model.save("model/bidirectional_imdb_model.h5")
