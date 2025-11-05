@@ -2,7 +2,7 @@
 
 A **deep learning-based IMDB movie review sentiment analysis system** built using **TensorFlow**, **Keras**, and **Gradio**.  
 It supports **real-time text predictions** and **batch analysis via .txt or .pdf uploads (including scanned PDFs using OCR)**.  
-The application also features a beautiful **Dark/Light Mode Toggle** and a clean, interactive UI. 🌙☀️
+The application also features a beautiful **Light Mode Toggle** and a clean, interactive UI. 🌙☀️
 
 ---
 
@@ -11,7 +11,7 @@ The application also features a beautiful **Dark/Light Mode Toggle** and a clean
 ✅ **Bidirectional LSTM** trained on IMDB Dataset  
 ✅ **Gradio-powered UI** for interactive predictions  
 ✅ **Text and PDF Support** (auto OCR for scanned documents)  
-✅ **Dark/Light Mode Toggle** with smooth animations  
+✅ **Light Mode Toggle** with smooth animations  
 ✅ **Confidence Visualization** and adjustable threshold  
 ✅ Developed by **Md. Ferdaus Hossen**, Junior AI/ML Engineer @ Zensoft Lab
 
@@ -132,5 +132,6 @@ pandas
 
 🧑‍💻 Md. Ferdaus Hossen
 Junior AI/ML Engineer @ Zensoft Lab
+
 
 
