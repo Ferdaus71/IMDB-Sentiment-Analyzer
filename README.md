@@ -1,4 +1,4 @@
-# 🎬 IMDB Sentiment Analyzer (Enhanced + OCR & Dark/Light UI)
+# 🎬 IMDB Sentiment Analyzer 
 
 A **deep learning-based IMDB movie review sentiment analysis system** built using **TensorFlow**, **Keras**, and **Gradio**.  
 It supports **real-time text predictions** and **batch analysis via .txt or .pdf uploads (including scanned PDFs using OCR)**.  
@@ -111,7 +111,7 @@ IMDB-Sentiment-Analyzer-with-OCR-UI/
 │
 ├── screenshots/                      # App preview images
 │   ├── light_ui.png
-│   └── dark_ui.png
+│   
 │
 └── model/                            # Pretrained model
     └── bidirectional_imdb_model.h5
@@ -133,8 +133,4 @@ pandas
 🧑‍💻 Md. Ferdaus Hossen
 Junior AI/ML Engineer @ Zensoft Lab
 
-📧 ferdaus71@gmail.com
-
-🌐 GitHub
- • LinkedIn
 
